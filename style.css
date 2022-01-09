@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.title{
+    text-align: center;
+    color: green;
+}
+.first_section{
+    display: flex;
+    
+}
+.photo img{
+    width: 200px;
+}
+.dt_btn button {
+    padding: 10px 30px;
+    background-image: linear-gradient(145deg, green, red, green);
+    border: none;
+    border-radius: 4px;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.all_division{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.single_box{
+    width: 250px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 12px gray;
+    border-radius: 5px;
+}
+.div_img img{
+    width: 100%;
+}
+.second_section{
+    text-align: center;
+    margin-bottom: 100px;
+}
