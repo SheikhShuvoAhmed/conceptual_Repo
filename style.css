@@ -12,10 +12,11 @@ body{
 }
 .first_section{
     display: flex;
+    align-items: center;
     
 }
 .photo img{
-    width: 200px;
+    width: 500px;
 }
 .dt_btn button {
     padding: 10px 30px;
@@ -43,3 +44,4 @@ body{
     text-align: center;
     margin-bottom: 100px;
 }
+ 
